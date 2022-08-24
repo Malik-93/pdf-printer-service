@@ -1,0 +1,21 @@
+{
+    "name": "pdf-printing-service",
+    "version": "1.0.0",
+    "description": "A simple service to print PDF documents",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "start": "node .",
+        "dev": "nodemon ."
+    },
+    "author": "Mohmmad Mudassir",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "pdf-to-printer": "^1.7.0",
+        "unix-print": "^1.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.19"
+    }
+}
