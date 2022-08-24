@@ -7,7 +7,7 @@ Install using Yarn
 ```bash
 yarn add unix-print
 ```
-
+Install using npm
 ```bash
 npm install unix-print
 ```
