@@ -23,3 +23,9 @@ Start using Yarn with Nodemon
 ```bash
 yarn dev
 ```
+## PDF File
+Add your.pdf of your choice by replacing with dummy.pdf in the asset directory
+
+```bash
+assets/dummy.pdf
+```

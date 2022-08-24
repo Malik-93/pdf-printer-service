@@ -12,7 +12,6 @@
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1",
-        "pdf-to-printer": "^1.7.0",
         "unix-print": "^1.2.0"
     },
     "devDependencies": {
