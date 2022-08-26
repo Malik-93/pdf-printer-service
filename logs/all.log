@@ -220,3 +220,177 @@
   service: 'PDF-PRINTER-SERVICE',
   timestamp: '2022-08-26T12:09:56.108Z'
 }
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T13:07:11.167Z'
+}
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:02:52.000Z'
+}
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:04:40.736Z'
+}
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:05:09.190Z'
+}
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:06:29.080Z'
+}
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:06:46.120Z'
+}
+{
+  message: 'filePath -> uploads/file-4089c82b6d8f3213686cbdccd654c810427410e8.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:08:05.363Z'
+}
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:08:23.736Z'
+}
+{
+  message: 'Print error -> {}',
+  level: 'error',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:08:46.707Z'
+}
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:09:06.088Z'
+}
+{
+  message: 'filePath -> uploads/file-5d021e856f26b3eb68c9c057b0f05b542fbe31e0.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:09:28.826Z'
+}
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:13:01.773Z'
+}
+{
+  message: 'filePath -> uploads/file-20cf5d219838a3eb4b832d8d5cb0761d3d28be23.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:13:14.484Z'
+}
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:17:41.700Z'
+}
+{
+  message: 'filePath -> uploads/file-98bf2ebbeef14952edb0a02c174f111206a68643.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:17:54.660Z'
+}
+{
+  message: 'Print result -> {"stdout":"request id is HP_Color_LaserJet_M452nw__3F8288_-14 (1 file(s))\\n","stderr":""}',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:17:54.826Z'
+}
+{
+  message: 'uploads/file-98bf2ebbeef14952edb0a02c174f111206a68643.pdf file has been deleted..',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:17:54.831Z'
+}
+{
+  message: 'filePath -> uploads/file-d9fbef921588762c20df9d684d370bfc59f18866.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:18:59.928Z'
+}
+{
+  message: 'Print result -> {"stdout":"request id is HP_Color_LaserJet_M452nw__3F8288_-15 (1 file(s))\\n","stderr":""}',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:18:59.963Z'
+}
+{
+  message: 'uploads/file-d9fbef921588762c20df9d684d370bfc59f18866.pdf file has been deleted..',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:18:59.965Z'
+}
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:19:18.361Z'
+}
+{
+  message: 'filePath -> uploads/file-4515dc7acba82c440f19919899ed9480fb9100c9.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:19:33.105Z'
+}
+{
+  message: 'Print result -> {"stdout":"request id is HP_Color_LaserJet_M452nw__3F8288_-16 (1 file(s))\\n","stderr":""}',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:19:33.137Z'
+}
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:19:54.782Z'
+}
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:20:23.785Z'
+}
+{
+  message: 'filePath -> uploads/file-079368f679ffb4518b45a1fa06cb0d14c97b297b.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:20:53.409Z'
+}
+{
+  message: 'filePath -> uploads/file-f0b379ec956dac7d7de7718f05d772b9adafc135.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:21:05.966Z'
+}
+{
+  message: 'filePath -> uploads/file-b7816a57555b6f250a1722a0958be84639ba94db.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:23:01.167Z'
+}
+{
+  message: 'filePath -> uploads/file-42c6bef4d23db2ea821f74230aaf807473bc4572.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:23:26.227Z'
+}

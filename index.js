@@ -23,19 +23,19 @@ app.post('/print', upload('uploads').single('file'), async (req, res) => {
         const filePath = `${req.file.path}`;
         console.log('filePath', filePath);
         logger.info(`filePath -> ${filePath}`)
-        const result = await ptp.print(filePath);
-        console.log(`Print result -> ${JSON.stringify(result)}`)
-        logger.info(`Print result -> ${JSON.stringify(result)}`)
-        fs.unlink(filePath, err => {
-            if (err) {
-                console.log(`An error accured while deleting the ${filePath} file ..`)
-                logger.error(`An error accured while deleting the ${filePath} file ..`)
-            }
-            else {
-                console.log(`${filePath} file has been deleted..`)
-                logger.info(`${filePath} file has been deleted..`)
-            }
-        });
+        // const result = await ptp.print(filePath);
+        // console.log(`Print result -> ${JSON.stringify(result)}`)
+        // logger.info(`Print result -> ${JSON.stringify(result)}`)
+        // fs.unlink(filePath, err => {
+        //     if (err) {
+        //         console.log(`An error accured while deleting the ${filePath} file ..`)
+        //         logger.error(`An error accured while deleting the ${filePath} file ..`)
+        //     }
+        //     else {
+        //         console.log(`${filePath} file has been deleted..`)
+        //         logger.info(`${filePath} file has been deleted..`)
+        //     }
+        // });
         return res.status(200).json({ success: true, message: "Request has been sent to printer..." });
     } catch (error) {
         console.log(`Print error -> ${JSON.stringify(error)}`)

@@ -4,3 +4,9 @@
   service: 'PDF-PRINTER-SERVICE',
   timestamp: '2022-08-26T11:21:25.518Z'
 }
+{
+  message: 'Print error -> {}',
+  level: 'error',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T14:08:46.707Z'
+}
