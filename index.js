@@ -24,10 +24,12 @@ app.use('/print', async (req, res) => {
         const result = await ptp.print(pdfFile);
         console.log('result', result);
         logger.info(`Print result -> ${JSON.stringify(result)}`)
+        console.log(`Print result -> ${JSON.stringify(result)}`)
         res.status(204);
         res.send();
     } catch (error) {
         logger.info(`Print error -> ${JSON.stringify(error)}`)
+        console.log(`Print error -> ${JSON.stringify(error)}`)
         res.status(204);
         res.send();
     }
@@ -36,6 +38,7 @@ app.use('/print', async (req, res) => {
 
 app.listen(port, async () => {
     console.log(`${process.env.PROJECT} is listening on http://localhost:${port}`)
+
     // logger.info(`${process.env.PROJECT} is listening on http://localhost:${port}`)
     // const printers = await ptp.getPrinters();
     // const defaultPrinter = await ptp.getDefaultPrinter();
