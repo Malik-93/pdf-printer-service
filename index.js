@@ -35,9 +35,10 @@ app.use('/print', async (req, res) => {
 })
 
 app.listen(port, async () => {
+    console.log(`${process.env.PROJECT} is listening on http://localhost:${port}`)
+    logger.info(`${process.env.PROJECT} is listening on http://localhost:${port}`)
     const printers = await ptp.getPrinters();
     const defaultPrinter = await ptp.getDefaultPrinter();
     logger.info(`Available Printers -> ${JSON.stringify(printers)}`)
     logger.info(`defaultPrinter -> ${JSON.stringify(defaultPrinter)}`)
-    console.log(`${process.env.PROJECT} is listening on http://localhost:${port}`)
 });
