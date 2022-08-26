@@ -1,0 +1,6 @@
+{
+  message: 'Print error -> "No such file"',
+  level: 'error',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-26T11:21:25.518Z'
+}
