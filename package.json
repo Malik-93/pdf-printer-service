@@ -11,8 +11,10 @@
     "author": "Mohmmad Mudassir",
     "license": "ISC",
     "dependencies": {
+        "dotenv": "^16.0.1",
         "express": "^4.17.1",
-        "unix-print": "^1.2.0"
+        "unix-print": "^1.2.0",
+        "winston": "^3.8.1"
     },
     "devDependencies": {
         "nodemon": "^2.0.19"
