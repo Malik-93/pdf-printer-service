@@ -394,3 +394,177 @@
   service: 'PDF-PRINTER-SERVICE',
   timestamp: '2022-08-26T14:23:26.227Z'
 }
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:28:42.395Z'
+}
+{
+  message: 'PDF-PRINTER-SERVICE is listening on http://localhost:9000',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:29:07.138Z'
+}
+{
+  message: 'filePath -> uploads/file-0e8ff41d03ccb60fb098437c6df9b503a1b85ae1.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:32:11.782Z'
+}
+{
+  message: 'Print result -> {"stdout":"request id is HP_Color_LaserJet_M452nw__3F8288_-17 (1 file(s))\\n","stderr":""}',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:32:11.920Z'
+}
+{
+  message: 'uploads/file-0e8ff41d03ccb60fb098437c6df9b503a1b85ae1.pdf file has been deleted..',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:32:11.926Z'
+}
+{
+  message: 'filePath -> uploads/file-2b2ad126664a98430c8ec96f7cb9ca2d7afeb681.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:32:59.598Z'
+}
+{
+  message: 'Print result -> {"stdout":"request id is HP_Color_LaserJet_M452nw__3F8288_-18 (1 file(s))\\n","stderr":""}',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:32:59.631Z'
+}
+{
+  message: 'uploads/file-2b2ad126664a98430c8ec96f7cb9ca2d7afeb681.pdf file has been deleted..',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:32:59.632Z'
+}
+{
+  message: 'filePath -> uploads/file-49648f67e2674423a5f111411bf389ff3f78a7c7.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:35:24.447Z'
+}
+{
+  message: 'Print result -> {"stdout":"request id is HP_Color_LaserJet_M452nw__3F8288_-19 (1 file(s))\\n","stderr":""}',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:35:24.507Z'
+}
+{
+  message: 'uploads/file-49648f67e2674423a5f111411bf389ff3f78a7c7.pdf file has been deleted..',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:35:24.508Z'
+}
+{
+  message: 'filePath -> uploads/file-26b5954d339bd71584941241c1ff38239ce668af.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:35:43.380Z'
+}
+{
+  message: 'Print result -> {"stdout":"request id is HP_Color_LaserJet_M452nw__3F8288_-20 (1 file(s))\\n","stderr":""}',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:35:43.413Z'
+}
+{
+  message: 'uploads/file-26b5954d339bd71584941241c1ff38239ce668af.pdf file has been deleted..',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:35:43.414Z'
+}
+{
+  message: 'filePath -> uploads/file-eaa93aa0da7ac650df134c9f7f10b8001d92611a.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:36:08.986Z'
+}
+{
+  message: 'Print result -> {"stdout":"request id is HP_Color_LaserJet_M452nw__3F8288_-21 (1 file(s))\\n","stderr":""}',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:36:09.016Z'
+}
+{
+  message: 'uploads/file-eaa93aa0da7ac650df134c9f7f10b8001d92611a.pdf file has been deleted..',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:36:09.017Z'
+}
+{
+  message: 'filePath -> uploads/file-4b71107ffd68e192a8264ac166eb275320a53b82.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:36:30.510Z'
+}
+{
+  message: 'Print result -> {"stdout":"request id is HP_Color_LaserJet_M452nw__3F8288_-22 (1 file(s))\\n","stderr":""}',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:36:30.542Z'
+}
+{
+  message: 'uploads/file-4b71107ffd68e192a8264ac166eb275320a53b82.pdf file has been deleted..',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:36:30.543Z'
+}
+{
+  message: 'filePath -> uploads/file-4ab352673d82e750cbd64c8f5143e7e436172ec8.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:36:45.425Z'
+}
+{
+  message: 'Print result -> {"stdout":"request id is HP_Color_LaserJet_M452nw__3F8288_-23 (1 file(s))\\n","stderr":""}',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:36:45.475Z'
+}
+{
+  message: 'uploads/file-4ab352673d82e750cbd64c8f5143e7e436172ec8.pdf file has been deleted..',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:36:45.483Z'
+}
+{
+  message: 'filePath -> uploads/file-b051653adcd4be0f9a7f3d27440a4a15ac976f14.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:36:57.034Z'
+}
+{
+  message: 'Print result -> {"stdout":"request id is HP_Color_LaserJet_M452nw__3F8288_-24 (1 file(s))\\n","stderr":""}',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:36:57.069Z'
+}
+{
+  message: 'uploads/file-b051653adcd4be0f9a7f3d27440a4a15ac976f14.pdf file has been deleted..',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:36:57.070Z'
+}
+{
+  message: 'filePath -> uploads/file-64923b6ded7d46962122e8f8bd9b6d2b619a9459.pdf',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:37:07.535Z'
+}
+{
+  message: 'Print result -> {"stdout":"request id is HP_Color_LaserJet_M452nw__3F8288_-25 (1 file(s))\\n","stderr":""}',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:37:07.581Z'
+}
+{
+  message: 'uploads/file-64923b6ded7d46962122e8f8bd9b6d2b619a9459.pdf file has been deleted..',
+  level: 'info',
+  service: 'PDF-PRINTER-SERVICE',
+  timestamp: '2022-08-27T04:37:07.584Z'
+}
