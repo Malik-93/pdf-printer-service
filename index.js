@@ -4,6 +4,7 @@ const path = require("path");
 const logger = require("./logger");
 const upload = require("./multer");
 const fs = require("fs");
+const cors = require('cors');
 const app = express();
 const public = path.join(__dirname, 'public');
 const port = process.env.PORT || 9000;
@@ -11,7 +12,7 @@ const port = process.env.PORT || 9000;
 app.get('/', function (req, res) {
     res.sendFile(path.join(public, 'index.html'));
 });
-
+app.use(cors())
 app.use(express.static(path.join(__dirname, 'public'))); //  "public" off of current is root
 app.use('/uploads', express.static(path.join(__dirname, 'uploads'))); //  "public" off of current is root
 
