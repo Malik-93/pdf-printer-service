@@ -23,10 +23,10 @@ app.post('/print', upload('uploads').single('file'), async (req, res) => {
         // const result = await ptp.print(pdfFile, printer, options);
         const filePath = `${req.file.path}`;
         console.log('filePath', filePath);
-        logger.info(`filePath -> ${filePath}`)
+        logger.info(`filePath -> ${filePath}`);
         const result = await ptp.print(filePath);
-        console.log(`Print result -> ${JSON.stringify(result)}`)
-        logger.info(`Print result -> ${JSON.stringify(result)}`)
+        console.log(`Print result -> ${JSON.stringify(result)}`);
+        logger.info(`Print result -> ${JSON.stringify(result)}`);
         fs.unlink(filePath, err => {
             if (err) {
                 console.log(`An error accured while deleting the ${filePath} file ..`)
